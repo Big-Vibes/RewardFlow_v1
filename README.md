@@ -35,7 +35,9 @@ The RewardFlow platform enables users to complete tasks, build daily streaks, ea
 *         v
 * [ MongoDB Database ]
 
-Frontend handles UI, state, and API calls, Backend manages authentication, business logic, streak rules, and leaderboard ranking, MongoDB stores users, tasks, streaks, and points
+* Frontend handles UI, state, and API calls, 
+* Backend manages authentication, business logic, streak rules, and leaderboard ranking. 
+* MongoDB stores users, tasks, streaks, and points
 
 **Project Structure:**
 - Backend
