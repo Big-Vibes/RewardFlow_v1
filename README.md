@@ -95,7 +95,7 @@ frontend runs on:
 
 **Configuration**
 * Create a .env file in the backend directory:
-* MONGO_URI=mongodb://localhost:27017/rewardhub
+* MONGO_URI=your_mongodb_Key
 * JWT_SECRET=your_secret_key
 
 **Development Roadmap**
