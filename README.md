@@ -69,7 +69,7 @@ Prerequisites
 * MongoDB (Cloud "Atlas")
 
 **Clone the repository**
-* git clone https://github.com/your-username/rewardhub.git
+* [git clone https://github.com/your-username/rewardhub.git](https://github.com/Big-Vibes/RewardFlow_v1.git)
 * cd rewardhub
 
 **Running the Application**
